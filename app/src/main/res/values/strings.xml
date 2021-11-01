@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">spp_app_public</string>
+    <string name="on">Включение записи</string>
+    <string name="off">Выключение записи</string>
+    <string name="pause">Пауза</string>
+    <string name="alphabet">Вывод Алфавита</string>
+    <string name="FirstLine">На языке, тебе невнятном,</string>
+    <string name="SecondLine">Стихи прощальные пишу</string>
+    <string name="ThirdLine">Но в заблуждении приятном</string>
+    <string name="FourthLine">Вниманья твоего прошу:</string>
+    <string name="FifthLine">Мой друг, доколе не увяну,</string>
+    <string name="SixthLine">В разлуке чувство погубя,</string>
+    <string name="SeventhLine">Боготворить не перестану</string>
+    <string name="Eighthline">Тебя, мой друг, одну тебя.</string>
+    <string name="NinthLine">На чуждые черты взирая,</string>
+    <string name="TenthLine">Верь только сердцу моему,</string>
+    <string name="EleventhLine">Как прежде верила ему,</string>
+    <string name="TwelfthLine">Его страстей не понимая.</string>
+
 </resources>
